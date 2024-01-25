@@ -1,7 +1,7 @@
 {
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://example.com/path/to/file/context.jsonld"
+            "jsonLdContext": "https://robgsupsi.github.io/polygon-issuer-node/schemas/MOOVTicket.jsonld"
         },
         "version": "1.0",
         "type": "MOOVTicket"
